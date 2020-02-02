@@ -10,6 +10,8 @@ namespace Bulldozer
             worker.Count(4);
             worker.Count(5);
 
+            worker.Count(4.5f);
+
         }
     }
 
@@ -25,10 +27,16 @@ namespace Bulldozer
             if (Total == null)
                 Total = 0;
 
+            Total = Total + Convert.ToSingle(number);
+            Console.WriteLine(Total.ToString());
+        }
+
+        public void Count(float number)
+        {
             Total = Total + number;
             Console.WriteLine(Total.ToString());
         }
 
-        public int Total { get; set; }
+        public float Total { get; set; }
     }
 }
