@@ -1,0 +1,9 @@
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/bin/Debug/netcoreapp1.1/Bulldozer.deps.json
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/bin/Debug/netcoreapp1.1/Bulldozer.runtimeconfig.json
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/bin/Debug/netcoreapp1.1/Bulldozer.runtimeconfig.dev.json
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/bin/Debug/netcoreapp1.1/Bulldozer.dll
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/bin/Debug/netcoreapp1.1/Bulldozer.pdb
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/obj/Debug/netcoreapp1.1/Bulldozer.csproj.CoreCompileInputs.cache
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/obj/Debug/netcoreapp1.1/Bulldozer.AssemblyInfo.cs
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/obj/Debug/netcoreapp1.1/Bulldozer.dll
+/Users/muse/Documents/Csharp/OOP-Legos/Bulldozer/obj/Debug/netcoreapp1.1/Bulldozer.pdb
